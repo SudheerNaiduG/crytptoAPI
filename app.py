@@ -2,7 +2,7 @@ from flask import Flask
 from flask_restful import Api,Resource,reqparse
 import pymongo
 import json
-client=pymongo.MongoClient("ENTER YOUR MONGODB URL HERE TO UPDATE THE DB WITH THE PRICES")
+client=pymongo.MongoClient("ENTER YOUR MONGODB URL HERE TO FETCH THE PRICES")
 db=client.price.crypto
 
 app=Flask(__name__)
