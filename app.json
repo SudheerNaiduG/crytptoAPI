@@ -1,0 +1,11 @@
+{
+  "name": "WAZIRX API",
+  "description": "API to get Crypto currency prices from WAZIRX",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/th0m45s5helby/bitcoin",
+  "success_url": "https://t.me/torrentleechgdrivesupport",
+  "website": "https://github.com/th0m45s5helby/bitcoin"
+
+}
